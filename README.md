@@ -2,7 +2,7 @@
 
 ## About this repo
 
-This repository contains my work for STATS 220 at the University of Auckland.
+This repo contains my work for STATS 220.
 ---
 ### What I am learning
 - R programming
